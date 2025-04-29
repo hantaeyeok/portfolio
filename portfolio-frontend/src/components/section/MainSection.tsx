@@ -4,18 +4,19 @@ import "./MainSection.css";
 const MainSection = () => {
     return (
       <section className="main-section">
-        <div className="main-overlay">
-          <img src="/logo.png" alt="main-img" className="main-logo" />
+        <div className="main-div">
           <p className="main-subtext">
-            안녕하세요, 백앤드 개발자 한태역 입니다.
+            안녕하세요, <br />
+            백엔드 개발자 <span className="highlight">이이름</span>입니다.
           </p>
-          <p>
-            백엔드 개발자
-            함께 ~~~ 찾고있습니다</p>
-          <button>
-          <a href="/resume.pdf" download className="main-resume-button">
+          
+          <p className="main-description">
+            맨트 웹 백엔드를 개발합니다. <br />
+            ~~~~~~~~
+          </p>
+          
+          <button className="main-resume-button">
             이력서 다운로드 ⬇
-          </a>  
           </button>
         </div>
       </section>

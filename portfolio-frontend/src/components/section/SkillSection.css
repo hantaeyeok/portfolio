@@ -1,0 +1,59 @@
+.skill-section {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+/* 소제목 */
+.skill-label {
+  color: #3b82f6;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+/* 메인 제목 */
+.skill-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* 탭 버튼들 */
+.skill-tabs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 30px;
+}
+
+.skill-tab {
+  padding: 8px 16px;
+  background-color: #f3f4f6;
+  border: none;
+  border-radius: 20px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  color: #374151;
+  transition: background 0.2s ease;
+}
+
+.skill-tab:hover {
+  background-color: #dbeafe;
+}
+
+/* 기술 그리드 (칸) */
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 16px;
+  justify-items: center;
+}
+
+/* 칸만 빈 박스 */
+.skill-icon-placeholder {
+  width: 80px;
+  height: 80px;
+  background-color: #e5e7eb;
+  border-radius: 12px;
+}
