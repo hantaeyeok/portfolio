@@ -1,0 +1,29 @@
+	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
+JavaScript	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+React	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+Next.js	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg
+Styled Components	https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png
+Storybook	https://raw.githubusercontent.com/storybookjs/brand/main/badge/icon-storybook.svg
+Jest	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg
+GitHub	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+✅ 백엔드 기술 아이콘
+
+기술	아이콘 링크 (CDN)
+Java	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+Spring	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg
+Node.js	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
+Express	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg
+NestJS	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg
+PostgreSQL	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
+MySQL	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+MongoDB	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
+
+
+기술	아이콘 링크 (CDN)
+Docker	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+Git	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+AWS	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg
+Vite	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg
+Figma	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
+
+

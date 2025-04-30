@@ -1,4 +1,4 @@
-package com.portfolio.auth.auth_jwt_api.service;
+package com.portfolio.auth.auth_jwt_api.user.service;
 
 import java.time.LocalDate;
 
@@ -10,8 +10,8 @@ import org.springframework.stereotype.Service;
 import com.portfolio.auth.auth_jwt_api.common.ResponseData;
 import com.portfolio.auth.auth_jwt_api.common.ResponseHandler;
 import com.portfolio.auth.auth_jwt_api.jwt.JwtUtil;
-import com.portfolio.auth.auth_jwt_api.model.User;
-import com.portfolio.auth.auth_jwt_api.repository.UserRepository;
+import com.portfolio.auth.auth_jwt_api.User.model.User;
+import com.portfolio.auth.auth_jwt_api.User.repository.UserRepository;
 
 import lombok.RequiredArgsConstructor;
 

@@ -1,0 +1,88 @@
+.project-detail-page {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  
+  .project-info,
+  .project-interactive {
+    display: inline-block;
+    width: 100%;
+  }
+  
+  @media (min-width: 768px) {
+    .project-detail-page {
+      flex-direction: column;
+    }
+  
+    .project-info,
+    .project-interactive {
+      display: inline-block;
+      width: 48%;
+      vertical-align: top;
+    }
+  
+    .project-detail-page > *:first-child {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  
+  .project-info h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .project-info p {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .project-info ul {
+    margin-top: 10px;
+    padding-left: 16px;
+    list-style: square;
+    color: #444;
+  }
+  
+  .project-interactive input {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 1rem;
+  }
+  
+  .project-interactive button {
+    padding: 10px 16px;
+    font-weight: bold;
+    background-color: #10b981;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .project-interactive button:hover {
+    background-color: #059669;
+  }
+  
+  .login-result {
+    margin-top: 16px;
+    background: #f9fafb;
+    padding: 12px;
+    border-radius: 8px;
+    font-family: monospace;
+    color: #222;
+  }
+  
+  .api-log pre {
+    background: #111;
+    color: #0f0;
+    padding: 16px;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    overflow-x: auto;
+  }
+  

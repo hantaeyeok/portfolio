@@ -1,4 +1,4 @@
-package com.portfolio.auth.auth_jwt_api.model;
+package com.portfolio.auth.auth_jwt_api.user.model;
 
 import java.time.LocalDate;
 

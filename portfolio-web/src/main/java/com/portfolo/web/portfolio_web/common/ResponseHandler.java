@@ -1,4 +1,4 @@
-package com.portfolio.auth.auth_jwt_api.common;
+package com.portfolo.web.portfolio_web.common;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

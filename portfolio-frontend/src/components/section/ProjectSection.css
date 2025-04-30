@@ -1,18 +1,22 @@
-.skill-section {
+.project-section {
   padding: 60px 40px;
   background-color: #ffffff;
   border: 2px solid rgb(143, 197, 18);
 }
 
-.skill-title {
+.project-title {
   font-size: 2rem;
   font-weight: 800;
   color: #111;
   margin-bottom: 2rem;
-  text-align: left; /* 왼쪽 정렬 */
+  text-align: left;
   border-bottom: 2px solid #e5e7eb;
   padding-bottom: 10px;
   display: inline-block;
 }
 
-
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}

@@ -1,10 +1,8 @@
-package com.portfolio.auth.auth_jwt_api.repository;
+package com.portfolio.auth.auth_jwt_api.user.repository;
 
 import java.util.Optional;
-
 import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.portfolio.auth.auth_jwt_api.model.User;
+import com.portfolio.auth.auth_jwt_api.user.model.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 
